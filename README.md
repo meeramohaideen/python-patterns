@@ -16,8 +16,7 @@ c-b-a-b-c
 ----c----
 ```
 *********************************************
-Sample Input 2:
-5
+Sample Input 2:  5
 
 Sample Output 2:
 ```sh
@@ -40,9 +39,9 @@ Mat size must be N*M. ( N is an odd natural number, and M is 3 times N.)
 The design will have 'WELCOME' written in the center.
 The design pattern used |, . and - characters.
 
-Sample Input 1
-9 27
-Sample Output 1
+Sample Input 1 : 9 27
+
+Sample Output 1 :
 ```sh
 ------------.|.------------
 ---------.|..|..|.---------
@@ -55,9 +54,9 @@ Sample Output 1
 ------------.|.------------
 ```
 *********************************************
-Sample Input 2
-11  33
-Sample Output 2
+Sample Input 2 : 11  33
+
+Sample Output 2: 
 ```sh
 ---------------.|.---------------
 ------------.|..|..|.------------
